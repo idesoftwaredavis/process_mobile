@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">tareas</string>
+    <string name="userTxt">Usuario</string>
+    <string name="passTxt">Clave</string>
+    <string name="btnLogin">Entrar</string>
+    <string name="title_activity_dashboard">dashboard</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+</resources>
